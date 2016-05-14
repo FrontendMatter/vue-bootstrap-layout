@@ -33,5 +33,17 @@
     "bootstrap-layout-scrollable": "^1.0.2",
     "mout": "^1.0.0",
     "vue": "^1.0.24"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/vue-bootstrap-layout.git"
+  },
+  "keywords": [
+    "vue",
+    "bootstrap-layout"
+  ],
+  "bugs": {
+    "url": "https://github.com/themekit/vue-bootstrap-layout/issues"
+  },
+  "homepage": "https://github.com/themekit/vue-bootstrap-layout#readme"
 }
