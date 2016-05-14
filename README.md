@@ -5,7 +5,7 @@
 [Vue.js](https://github.com/vuejs/vue) components using [Bootstrap Layout](https://github.com/themekit/bootstrap-layout).
 
 ## Sample application
-> See the [adminplus-boilerplate-vue](https://github.com/themekit/adminplus-boilerplate-vue) repository for a sample Vue.js application.
+> See the [bs-layout-boilerplate-vue](https://github.com/themekit/bs-layout-boilerplate-vue) repository for a sample Vue.js application.
 
 ## Build
 > You can easily build vue-bootstrap-layout yourself.
@@ -44,3 +44,8 @@ Start an initial development build and then FAST continuous incremental builds:
 ```bash
 npm run dev
 ```
+
+---
+
+## Get help
+Get help directly from our team via our Slack channel. [Request invite](http://themekit-slack-invite.stamplayapp.com/)
